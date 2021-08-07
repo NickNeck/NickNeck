@@ -47,6 +47,62 @@
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/fi_fo?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/fi_fo?style=flat-square)
 
+[hrzndhrn/geometry](https://github.com/hrzndhrn/geometry#readme) - A set of geometry types for WKT/EWT, WKB/EWKB and GeoJson.  
+[![Hex.pm](https://img.shields.io/hexpm/v/geometry.svg?style=flat-square)](https://hex.pm/packages/geometry)
+![Hex.pm](https://img.shields.io/hexpm/dt/geometry?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/geometry/CI?style=flat-square)
+![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/geometry?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/geometry?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/geometry?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/geometry?style=flat-square)
+
+[hrzndhrn/json_xema](https://github.com/hrzndhrn/json_xema#readme) - A JSON Schema validator for draft-04, -06, and -07.  
+[![Hex.pm](https://img.shields.io/hexpm/v/json_xema.svg?style=flat-square)](https://hex.pm/packages/json_xema)
+![Hex.pm](https://img.shields.io/hexpm/dt/json_xema?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/json_xema/CI?style=flat-square)
+![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/json_xema?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/json_xema?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/json_xema?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/json_xema?style=flat-square)
+
+[hrzndhrn/log_lager_backend](https://github.com/hrzndhrn/log_lager_backend#readme) - A logger backend that forwards log messages to lager.  
+[![Hex.pm](https://img.shields.io/hexpm/v/log_lager_backend.svg?style=flat-square)](https://hex.pm/packages/log_lager_backend)
+![Hex.pm](https://img.shields.io/hexpm/dt/log_lager_backend?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/log_lager_backend?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/log_lager_backend?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/log_lager_backend?style=flat-square)
+
+[hrzndhrn/prove](https://github.com/hrzndhrn/prove#readme) - Prove provides the macros `prove` and `batch` to write simple tests shorter.  
+[![Hex.pm](https://img.shields.io/hexpm/v/prove.svg?style=flat-square)](https://hex.pm/packages/prove)
+![Hex.pm](https://img.shields.io/hexpm/dt/prove?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/prove?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/prove?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/prove?style=flat-square)
+
+[hrzndhrn/time_zone_info](https://github.com/hrzndhrn/time_zone_info#readme) - Time zone support for Elixir by using the IANA tz database.    
+[![Hex.pm](https://img.shields.io/hexpm/v/time_zone_info.svg?style=flat-square)](https://hex.pm/packages/time_zone_info)
+![Hex.pm](https://img.shields.io/hexpm/dt/time_zone_info?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/time_zone_info/CI?style=flat-square)
+![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/time_zone_info?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/time_zone_info?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/time_zone_info?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/time_zone_info?style=flat-square)
+
+[hrzndhrn/tox](https://github.com/hrzndhrn/tox#readme) - Some structs and functions to work with dates, times, durations, periods, and intervals.      
+[![Hex.pm](https://img.shields.io/hexpm/v/tox.svg?style=flat-square)](https://hex.pm/packages/tox)
+![Hex.pm](https://img.shields.io/hexpm/dt/tox?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/tox/CI?style=flat-square)
+![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/tox?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/tox?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/tox?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/tox?style=flat-square)
+
 [hrzndhrn/xema](https://github.com/hrzndhrn/xema#readme) - Xema is a schema validator for Elixir inspired by JSON Schema.  
 [![Hex.pm](https://img.shields.io/hexpm/v/xema.svg?style=flat-square)](https://hex.pm/packages/xema)
 ![Hex.pm](https://img.shields.io/hexpm/dt/xema?style=flat-square)
@@ -56,4 +112,3 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/xema?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/xema?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/xema?style=flat-square)
-
