@@ -38,6 +38,15 @@
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/datix?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/datix?style=flat-square)
 
+[hrzndhrn/fi_fo](https://github.com/hrzndhrn/fi_fo#readme) - This module provides (double-ended) FIFO queues in an efficient manner.  
+[![Hex.pm](https://img.shields.io/hexpm/v/fi_fo.svg?style=flat-square)](https://hex.pm/packages/fi_fo)
+![Hex.pm](https://img.shields.io/hexpm/dt/fi_fo?style=flat-square)
+![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/fi_fo?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/fi_fo?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/fi_fo?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/fi_fo?style=flat-square)
+
 [hrzndhrn/xema](https://github.com/hrzndhrn/xema#readme) - Xema is a schema validator for Elixir inspired by JSON Schema.  
 [![Hex.pm](https://img.shields.io/hexpm/v/xema.svg?style=flat-square)](https://hex.pm/packages/xema)
 ![Hex.pm](https://img.shields.io/hexpm/dt/xema?style=flat-square)
