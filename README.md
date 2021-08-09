@@ -38,6 +38,13 @@
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/datix?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/datix?style=flat-square)
 
+[hrzndhrn/ex_uuid](https://github.com/hrzndhrn/ex_uuid#readme) - UUID generator according to [RFC 4122](https://www.ietf.org/rfc/rfc4122.txt).  
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/ex_uuid/CI?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/ex_uuid?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/ex_uuid?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/ex_uuid?style=flat-square)
+
 [hrzndhrn/fi_fo](https://github.com/hrzndhrn/fi_fo#readme) - This module provides (double-ended) FIFO queues in an efficient manner.  
 [![Hex.pm](https://img.shields.io/hexpm/v/fi_fo.svg?style=flat-square)](https://hex.pm/packages/fi_fo)
 ![Hex.pm](https://img.shields.io/hexpm/dt/fi_fo?style=flat-square)
@@ -75,7 +82,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/log_lager_backend?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/log_lager_backend?style=flat-square)
 
-[hrzndhrn/prove](https://github.com/hrzndhrn/prove#readme) - Prove provides the macros `prove` and `batch` to write simple tests shorter.  
+[hrzndhrn/prove](https://github.com/hrzndhrn/prove#readme) - Prove provides the macros prove and batch to write simple tests shorter.  
 [![Hex.pm](https://img.shields.io/hexpm/v/prove.svg?style=flat-square)](https://hex.pm/packages/prove)
 ![Hex.pm](https://img.shields.io/hexpm/dt/prove?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
