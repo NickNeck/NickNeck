@@ -28,6 +28,16 @@
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/benchee_markdown?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/benchee_markdown?style=flat-square)
 
+[hrzndhrn/conv_case](https://github.com/hrzndhrn/conv_case#readme) - A library to convert strings, atoms and map keys between camelCase, snake_case and kebab-case.    
+[![Hex.pm](https://img.shields.io/hexpm/v/conv_case.svg?style=flat-square)](https://hex.pm/packages/conv_case)
+![Hex.pm](https://img.shields.io/hexpm/dt/conv_case?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/conv_case/CI?style=flat-square)
+![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/conv_case?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/conv_case?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/conv_case?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/conv_case?style=flat-square)
+
 [hrzndhrn/datix](https://github.com/hrzndhrn/datix#readme) - A date-time parser using Calendar.strftime format strings.  
 [![Hex.pm](https://img.shields.io/hexpm/v/datix.svg?style=flat-square)](https://hex.pm/packages/datix)
 ![Hex.pm](https://img.shields.io/hexpm/dt/datix?style=flat-square)
