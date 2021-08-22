@@ -61,6 +61,7 @@
 ![Hex.pm](https://img.shields.io/hexpm/dt/fi_fo?style=flat-square)
 ![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/fi_fo?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 ![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/fi_fo?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/fi_fo?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/fi_fo?style=flat-square)
