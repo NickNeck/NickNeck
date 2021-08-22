@@ -50,6 +50,7 @@
 
 [hrzndhrn/ex_uuid](https://github.com/hrzndhrn/ex_uuid#readme) - UUID generator according to [RFC 4122](https://www.ietf.org/rfc/rfc4122.txt).  
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/ex_uuid/CI?style=flat-square)
+![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/ex_uuid?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 ![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/ex_uuid?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/ex_uuid?style=flat-square)
