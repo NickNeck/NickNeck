@@ -28,7 +28,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/benchee_markdown?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/benchee_markdown?style=flat-square)
 
-[hrzndhrn/conv_case](https://github.com/hrzndhrn/conv_case#readme) - A library to convert strings, atoms and map keys between camelCase, snake_case and kebab-case.    
+[hrzndhrn/conv_case](https://github.com/hrzndhrn/conv_case#readme) - 
+A library to convert strings, atoms and map keys between camelCase, snake_case and kebab-case.    
 [![Hex.pm](https://img.shields.io/hexpm/v/conv_case.svg?style=flat-square)](https://hex.pm/packages/conv_case)
 ![Hex.pm](https://img.shields.io/hexpm/dt/conv_case?style=flat-square)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/conv_case/CI?style=flat-square)
@@ -60,7 +61,6 @@
 [![Hex.pm](https://img.shields.io/hexpm/v/fi_fo.svg?style=flat-square)](https://hex.pm/packages/fi_fo)
 ![Hex.pm](https://img.shields.io/hexpm/dt/fi_fo?style=flat-square)
 ![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/fi_fo?style=flat-square)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 ![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/fi_fo?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/fi_fo?style=flat-square)
@@ -75,6 +75,16 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/geometry?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/geometry?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/geometry?style=flat-square)
+
+[hrzndhrn/git_hub_actions](https://github.com/hrzndhrn/git_hub_actions#readme) - A little tool to write GitHub actions in Elixir.   
+[![Hex.pm](https://img.shields.io/hexpm/v/git_hub_actions.svg?style=flat-square)](https://hex.pm/packages/git_hub_actions)
+![Hex.pm](https://img.shields.io/hexpm/dt/git_hub_actions?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/git_hub_actions/CI?style=flat-square)
+![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/git_hub_actions?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/git_hub_actions?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/git_hub_actions?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/git_hub_actions?style=flat-square)
 
 [hrzndhrn/json_xema](https://github.com/hrzndhrn/json_xema#readme) - A JSON Schema validator for draft-04, -06, and -07.  
 [![Hex.pm](https://img.shields.io/hexpm/v/json_xema.svg?style=flat-square)](https://hex.pm/packages/json_xema)
