@@ -1,4 +1,6 @@
-### Just another passionated [Elixir](https://elixir-lang.org/) developer with some [Open Source](https://opensource.org/) [projects](https://hex.pm/users/mkruse).
+Just another passionated [Elixir](https://elixir-lang.org/) developer with some [Open Source](https://opensource.org/) [projects](https://hex.pm/users/mkruse).
+
+You can find the projects in the [Herz und Hirn](https://github.com/hrzndhrn?q=&type=source&language=elixir&sort=name) organization.
 
 [hrzndhrn/beam_file](https://github.com/hrzndhrn/beam_file#readme) - An interface to the BEAM file format and a decompiler  
 [![Hex.pm](https://img.shields.io/hexpm/v/beam_file.svg?style=flat-square)](https://hex.pm/packages/beam_file)
