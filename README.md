@@ -3,9 +3,8 @@ Just another passionated [Elixir](https://elixir-lang.org/) developer with some 
 You can find the projects in the [Herz und Hirn](https://github.com/hrzndhrn?q=&type=source&language=elixir&sort=name) organization.
 
 [hrzndhrn/beam_file](https://github.com/hrzndhrn/beam_file#readme) - An interface to the BEAM file format and a decompiler  
-[![Hex.pm](https://img.shields.io/hexpm/v/beam_file.svg?style=flat-square)](https://hex.pm/packages/beam_file)
-[![Hex.pm](https://img.shields.io/hexpm/dt/beam_file?style=flat-square)](https://hex.pm/packages/beam_file)
-[![Hex.pm](https://img.shields.io/hexpm/dt/beam_file?style=flat-square)](https://hex.pm/packages/beam_file)
+[![Hex.pm versions](https://img.shields.io/hexpm/v/beam_file.svg?style=flat-square)](https://hex.pm/packages/beam_file)
+[![Hex.pm downloads](https://img.shields.io/hexpm/dt/beam_file?style=flat-square)](https://hex.pm/packages/beam_file)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/beam_file/CI?style=flat-square)](https://github.com/hrzndhrn/beam_file/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/beam_file/blob/master/LICENSE.md)
 [![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/beam_file?style=flat-square)](https://github.com/hrzndhrn/beam_file/stargazers)
