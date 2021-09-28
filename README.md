@@ -12,14 +12,14 @@ You can find the projects in the [Herz und Hirn](https://github.com/hrzndhrn?q=&
 [![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/beam_file?style=flat-square)](https://github.com/hrzndhrn/beam_file/commits/master)
 
 [hrzndhrn/benchee_dsl](https://github.com/hrzndhrn/benchee_dsl#readme) - A DSL for benchee.  
-[![Hex.pm](https://img.shields.io/hexpm/v/benchee_dsl.svg?style=flat-square)](https://hex.pm/packages/benchee_dsl)
-![Hex.pm](https://img.shields.io/hexpm/dt/benchee_dsl?style=flat-square)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/benchee_dsl/CI?style=flat-square)
-![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/benchee_dsl?style=flat-square)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/benchee_dsl?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/benchee_dsl?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/benchee_dsl?style=flat-square)
+[![Hex.pm versions](https://img.shields.io/hexpm/v/benchee_dsl.svg?style=flat-square)](https://hex.pm/packages/benchee_dsl)
+[![Hex.pm downloads](https://img.shields.io/hexpm/dt/benchee_dsl?style=flat-square)](https://hex.pm/packages/benchee_dsl)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/hrzndhrn/benchee_dsl/CI?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/actions)
+[![Coveralls](https://img.shields.io/coveralls/github/hrzndhrn/benchee_dsl?style=flat-square)](https://coveralls.io/github/hrzndhrn/benchee_dsl)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/blob/master/LICENSE.md)
+[![GitHub Repo stars](https://img.shields.io/github/stars/hrzndhrn/benchee_dsl?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hrzndhrn/benchee_dsl?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/network/members)
+[![GitHub last commit](https://img.shields.io/github/last-commit/hrzndhrn/benchee_dsl?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/commits/master)
 
 [hrzndhrn/benchee_markdown](https://github.com/hrzndhrn/benchee_markdown#readme) - Markdown formatter for the (micro) benchmarking library benchee.   
 [![Hex.pm](https://img.shields.io/hexpm/v/benchee_markdown.svg?style=flat-square)](https://hex.pm/packages/benchee_markdown)
