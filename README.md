@@ -30,7 +30,7 @@ Markdown formatter for the (micro) benchmarking library benchee.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/benchee_markdown/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/benchee_markdown?style=flat-square)](https://github.com/hrzndhrn/benchee_markdown/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/benchee_markdown?style=flat-square)](https://github.com/hrzndhrn/benchee_markdown/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/benchee_markdown?style=flat-square)](https://github.com/hrzndhrn/benchee_markdown/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/benchee_markdown?style=flat-square)](https://github.com/hrzndhrn/benchee_markdown/commits/main)
 
 [hrzndhrn/conv_case](https://github.com/hrzndhrn/conv_case#readme) -
 A library to convert strings, atoms and map keys between camelCase, snake_case and kebab-case.  
@@ -41,7 +41,7 @@ A library to convert strings, atoms and map keys between camelCase, snake_case a
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/conv_case/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/conv_case?style=flat-square)](https://github.com/hrzndhrn/conv_case/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/conv_case?style=flat-square)](https://github.com/hrzndhrn/conv_case/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/conv_case?style=flat-square)](https://github.com/hrzndhrn/conv_case/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/conv_case?style=flat-square)](https://github.com/hrzndhrn/conv_case/commits/main)
 
 [hrzndhrn/datix](https://github.com/hrzndhrn/datix#readme) -
 A date-time parser using Calendar.strftime format strings.  
@@ -52,7 +52,7 @@ A date-time parser using Calendar.strftime format strings.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/datix/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/datix?style=flat-square)](https://github.com/hrzndhrn/datix/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/datix?style=flat-square)](https://github.com/hrzndhrn/datix/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/datix?style=flat-square)](https://github.com/hrzndhrn/datix/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/datix?style=flat-square)](https://github.com/hrzndhrn/datix/commits/main)
 
 [hrzndhrn/ex_uuid](https://github.com/hrzndhrn/ex_uuid#readme) -
 UUID generator according to [RFC 4122](https://www.ietf.org/rfc/rfc4122.txt).  
@@ -61,7 +61,7 @@ UUID generator according to [RFC 4122](https://www.ietf.org/rfc/rfc4122.txt).
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/ex_uuid/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/ex_uuid?style=flat-square)](https://github.com/hrzndhrn/ex_uuid/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/ex_uuid?style=flat-square)](https://github.com/hrzndhrn/ex_uuid/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/ex_uuid?style=flat-square)](https://github.com/hrzndhrn/ex_uuid/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/ex_uuid?style=flat-square)](https://github.com/hrzndhrn/ex_uuid/commits/main)
 
 [hrzndhrn/fi_fo](https://github.com/hrzndhrn/fi_fo#readme) -
 This module provides (double-ended) FIFO queues in an efficient manner.  
@@ -71,7 +71,7 @@ This module provides (double-ended) FIFO queues in an efficient manner.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/fi_fo/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/fi_fo?style=flat-square)](https://github.com/hrzndhrn/fi_fo/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/fi_fo?style=flat-square)](https://github.com/hrzndhrn/fi_fo/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/fi_fo?style=flat-square)](https://github.com/hrzndhrn/fi_fo/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/fi_fo?style=flat-square)](https://github.com/hrzndhrn/fi_fo/commits/main)
 
 [hrzndhrn/geometry](https://github.com/hrzndhrn/geometry#readme) -
 A set of geometry types for WKT/EWT, WKB/EWKB and GeoJson.  
@@ -82,7 +82,7 @@ A set of geometry types for WKT/EWT, WKB/EWKB and GeoJson.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/geometry/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/geometry?style=flat-square)](https://github.com/hrzndhrn/geometry/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/geometry?style=flat-square)](https://github.com/hrzndhrn/geometry/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/geometry?style=flat-square)](https://github.com/hrzndhrn/geometry/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/geometry?style=flat-square)](https://github.com/hrzndhrn/geometry/commits/main)
 
 [hrzndhrn/git_hub_actions](https://github.com/hrzndhrn/git_hub_actions#readme) -
 A little tool to write GitHub actions in Elixir.  
@@ -93,7 +93,7 @@ A little tool to write GitHub actions in Elixir.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/git_hub_actions/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/git_hub_actions?style=flat-square)](https://github.com/hrzndhrn/git_hub_actions/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/git_hub_actions?style=flat-square)](https://github.com/hrzndhrn/git_hub_actions/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/git_hub_actions?style=flat-square)](https://github.com/hrzndhrn/git_hub_actions/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/git_hub_actions?style=flat-square)](https://github.com/hrzndhrn/git_hub_actions/commits/main)
 
 [hrzndhrn/json_rpc](https://github.com/hrzndhrn/json_rpc) -
 An implementation of the [JSON RPC](https://www.jsonrpc.org/) protocol version 2.  
@@ -104,7 +104,7 @@ An implementation of the [JSON RPC](https://www.jsonrpc.org/) protocol version 2
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/json_rpc/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/json_rpc?style=flat-square)](https://github.com/hrzndhrn/json_rpc/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/json_rpc?style=flat-square)](https://github.com/hrzndhrn/json_rpc/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/json_rpc?style=flat-square)](https://github.com/hrzndhrn/json_rpc/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/json_rpc?style=flat-square)](https://github.com/hrzndhrn/json_rpc/commits/main)
 
 [hrzndhrn/json_xema](https://github.com/hrzndhrn/json_xema#readme) -
 A JSON Schema validator for draft-04, -06, and -07.  
@@ -115,7 +115,7 @@ A JSON Schema validator for draft-04, -06, and -07.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/json_xema/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/json_xema?style=flat-square)](https://github.com/hrzndhrn/json_xema/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/json_xema?style=flat-square)](https://github.com/hrzndhrn/json_xema/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/json_xema?style=flat-square)](https://github.com/hrzndhrn/json_xema/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/json_xema?style=flat-square)](https://github.com/hrzndhrn/json_xema/commits/main)
 
 [hrzndhrn/log_lager_backend](https://github.com/hrzndhrn/log_lager_backend#readme) -
 A logger backend that forwards log messages to lager.  
@@ -124,7 +124,7 @@ A logger backend that forwards log messages to lager.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/log_lager_backend/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/log_lager_backend?style=flat-square)](https://github.com/hrzndhrn/log_lager_backend/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/log_lager_backend?style=flat-square)](https://github.com/hrzndhrn/log_lager_backend/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/log_lager_backend?style=flat-square)](https://github.com/hrzndhrn/log_lager_backend/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/log_lager_backend?style=flat-square)](https://github.com/hrzndhrn/log_lager_backend/commits/main)
 
 [hrzndhrn/prove](https://github.com/hrzndhrn/prove#readme) -
 Prove provides the macros prove and batch to write simple tests shorter.  
@@ -133,7 +133,7 @@ Prove provides the macros prove and batch to write simple tests shorter.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/prove/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/prove?style=flat-square)](https://github.com/hrzndhrn/prove/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/prove?style=flat-square)](https://github.com/hrzndhrn/prove/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/prove?style=flat-square)](https://github.com/hrzndhrn/prove/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/prove?style=flat-square)](https://github.com/hrzndhrn/prove/commits/main)
 
 [hrzndhrn/time_zone_info](https://github.com/hrzndhrn/time_zone_info#readme) -
 Time zone support for Elixir by using the IANA tz database.  
@@ -144,7 +144,7 @@ Time zone support for Elixir by using the IANA tz database.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/time_zone_info/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/time_zone_info?style=flat-square)](https://github.com/hrzndhrn/time_zone_info/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/time_zone_info?style=flat-square)](https://github.com/hrzndhrn/time_zone_info/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/time_zone_info?style=flat-square)](https://github.com/hrzndhrn/time_zone_info/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/time_zone_info?style=flat-square)](https://github.com/hrzndhrn/time_zone_info/commits/main)
 
 [hrzndhrn/tox](https://github.com/hrzndhrn/tox#readme) -
 Some structs and functions to work with dates, times, durations, periods, and intervals.  
@@ -155,7 +155,7 @@ Some structs and functions to work with dates, times, durations, periods, and in
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/tox/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/tox?style=flat-square)](https://github.com/hrzndhrn/tox/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/tox?style=flat-square)](https://github.com/hrzndhrn/tox/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/tox?style=flat-square)](https://github.com/hrzndhrn/tox/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/tox?style=flat-square)](https://github.com/hrzndhrn/tox/commits/main)
 
 [hrzndhrn/xema](https://github.com/hrzndhrn/xema#readme) -
 Xema is a schema validator for Elixir inspired by JSON Schema.  
@@ -166,4 +166,4 @@ Xema is a schema validator for Elixir inspired by JSON Schema.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/xema/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/xema/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/xema/network/members)
-[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/xema/commits/master)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/xema/commits/main)
