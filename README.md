@@ -43,6 +43,17 @@ A library to convert strings, atoms and map keys between camelCase, snake_case a
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/conv_case?style=flat-square)](https://github.com/hrzndhrn/conv_case/network/members)
 [![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/conv_case?style=flat-square)](https://github.com/hrzndhrn/conv_case/commits/main)
 
+[cron](https://github.com/hrzndhrn/cron#readme) -
+Cron parses cron expressions and calculates execution timings.  
+[![Hex.pm: version](https://img.shields.io/hexpm/v/cron.svg?style=flat-square)](https://hex.pm/packages/cron)
+[![Hex.pm: downloads](https://img.shields.io/hexpm/dt/cron?style=flat-square)](https://hex.pm/packages/cron)
+[![GitHub: CI status](https://img.shields.io/github/workflow/status/hrzndhrn/cron/CI?style=flat-square)](https://github.com/hrzndhrn/cron/actions)
+[![Coveralls: coverage](https://img.shields.io/coveralls/github/hrzndhrn/cron?style=flat-square)](https://coveralls.io/github/hrzndhrn/cron)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/cron/blob/main/LICENSE.md)
+[![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/cron?style=flat-square)](https://github.com/hrzndhrn/cron/stargazers)
+[![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/cron?style=flat-square)](https://github.com/hrzndhrn/cron/network/members)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/cron?style=flat-square)](https://github.com/hrzndhrn/cron/commits/main)
+
 [datix](https://github.com/hrzndhrn/datix#readme) -
 A date-time parser using Calendar.strftime format strings.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/datix.svg?style=flat-square)](https://hex.pm/packages/datix)
