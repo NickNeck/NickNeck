@@ -178,3 +178,14 @@ Xema is a schema validator for Elixir inspired by JSON Schema.
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/xema/stargazers)
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/xema/network/members)
 [![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/xema/commits/main)
+
+[zipper_ex](https://github.com/hrzndhrn/zipper_ex#readme) -
+ZipperEx provides functions to handle an traverse tree data structures.  
+[![Hex.pm: version](https://img.shields.io/hexpm/v/zipper_ex.svg?style=flat-square)](https://hex.pm/packages/xema)
+[![Hex.pm: downloads](https://img.shields.io/hexpm/dt/zipper_ex?style=flat-square)](https://hex.pm/packages/xema)
+[![GitHub: CI status](https://img.shields.io/github/workflow/status/hrzndhrn/zipper_ex/CI?style=flat-square)](https://github.com/hrzndhrn/xema/actions)
+[![Coveralls: coverage](https://img.shields.io/coveralls/github/hrzndhrn/zipper_ex?style=flat-square)](https://coveralls.io/github/hrzndhrn/xema)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/zipper_ex/blob/main/LICENSE.md)
+[![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/zipper_ex/stargazers)
+[![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/zipper_ex/network/members)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/xema?style=flat-square)](https://github.com/hrzndhrn/zipper_ex/commits/main)
