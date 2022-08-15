@@ -146,6 +146,17 @@ Prove provides the macros prove and batch to write simple tests shorter.
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/prove?style=flat-square)](https://github.com/hrzndhrn/prove/network/members)
 [![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/prove?style=flat-square)](https://github.com/hrzndhrn/prove/commits/main)
 
+[recode](https://github.com/hrzndhrn/recode#readme) - 
+A linter with autocorrection and a refactoring tool.     
+[![Hex.pm: version](https://img.shields.io/hexpm/v/recode.svg?style=flat-square)](https://hex.pm/packages/recode)
+[![Hex.pm: downloads](https://img.shields.io/hexpm/dt/recode?style=flat-square)](https://hex.pm/packages/recode)
+[![GitHub: CI status](https://img.shields.io/github/workflow/status/hrzndhrn/recode/CI?style=flat-square)](https://github.com/hrzndhrn/recode/actions)
+[![Coveralls: coverage](https://img.shields.io/coveralls/github/hrzndhrn/recode?style=flat-square)](https://coveralls.io/github/hrzndhrn/recode)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/recode/blob/main/LICENSE.md)
+[![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/recode?style=flat-square)](https://github.com/hrzndhrn/recode/stargazers)
+[![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/recode?style=flat-square)](https://github.com/hrzndhrn/recode/network/members)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/recode?style=flat-square)](https://github.com/hrzndhrn/recode/commits/main)
+
 [time_zone_info](https://github.com/hrzndhrn/time_zone_info#readme) -
 Time zone support for Elixir by using the IANA tz database.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/time_zone_info.svg?style=flat-square)](https://hex.pm/packages/time_zone_info)
