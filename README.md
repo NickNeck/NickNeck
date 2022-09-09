@@ -157,6 +157,17 @@ A linter with autocorrection and a refactoring tool.
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/recode?style=flat-square)](https://github.com/hrzndhrn/recode/network/members)
 [![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/recode?style=flat-square)](https://github.com/hrzndhrn/recode/commits/main)
 
+[rewrite](https://github.com/hrzndhrn/rewrite#readme) -
+An API for rewriting sources in an Elixir project. Powered by sourceror.   
+[![Hex.pm: version](https://img.shields.io/hexpm/v/rewrite.svg?style=flat-square)](https://hex.pm/packages/rewrite)
+[![Hex.pm: downloads](https://img.shields.io/hexpm/dt/rewrite?style=flat-square)](https://hex.pm/packages/rewrite)
+[![GitHub: CI status](https://img.shields.io/github/workflow/status/hrzndhrn/rewrite/CI?style=flat-square)](https://github.com/hrzndhrn/rewrite/actions)
+[![Coveralls: coverage](https://img.shields.io/coveralls/github/hrzndhrn/rewrite?style=flat-square)](https://coveralls.io/github/hrzndhrn/rewrite)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/rewrite/blob/main/LICENSE.md)
+[![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/rewrite?style=flat-square)](https://github.com/hrzndhrn/rewrite/stargazers)
+[![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/rewrite?style=flat-square)](https://github.com/hrzndhrn/rewrite/network/members)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/rewrite?style=flat-square)](https://github.com/hrzndhrn/rewrite/commits/main)
+
 [time_zone_info](https://github.com/hrzndhrn/time_zone_info#readme) -
 Time zone support for Elixir by using the IANA tz database.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/time_zone_info.svg?style=flat-square)](https://hex.pm/packages/time_zone_info)
