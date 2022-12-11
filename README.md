@@ -106,6 +106,17 @@ A little tool to write GitHub actions in Elixir.
 [![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/git_hub_actions?style=flat-square)](https://github.com/hrzndhrn/git_hub_actions/network/members)
 [![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/git_hub_actions?style=flat-square)](https://github.com/hrzndhrn/git_hub_actions/commits/main)
 
+[glob_ex](https://github.com/hrzndhrn/glob_ex#readme) -
+An implementation of `glob`.  
+[![Hex.pm: version](https://img.shields.io/hexpm/v/glob_ex.svg?style=flat-square)](https://hex.pm/packages/glob_ex)
+[![Hex.pm: downloads](https://img.shields.io/hexpm/dt/glob_ex?style=flat-square)](https://hex.pm/packages/glob_ex)
+[![GitHub: CI status](https://img.shields.io/github/workflow/status/hrzndhrn/glob_ex/CI?style=flat-square)](https://github.com/hrzndhrn/glob_ex/actions)
+[![Coveralls: coverage](https://img.shields.io/coverallsCoverage/github/hrzndhrn/glob_ex?style=flat-square)](https://coveralls.io/github/hrzndhrn/glob_ex)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/glob_ex/blob/main/LICENSE.md)
+[![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/glob_ex?style=flat-square)](https://github.com/hrzndhrn/glob_ex/stargazers)
+[![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/glob_ex?style=flat-square)](https://github.com/hrzndhrn/glob_ex/network/members)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/glob_ex?style=flat-square)](https://github.com/hrzndhrn/glob_ex/commits/main)
+
 [json_rpc](https://github.com/hrzndhrn/json_rpc) -
 An implementation of the [JSON RPC](https://www.jsonrpc.org/) protocol version 2.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/json_rpc.svg?style=flat-square)](https://hex.pm/packages/json_rpc)
