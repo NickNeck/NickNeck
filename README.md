@@ -47,7 +47,7 @@ A library to convert strings, atoms and map keys between camelCase, snake_case a
 Cron parses cron expressions and calculates execution timings.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/cron.svg?style=flat-square)](https://hex.pm/packages/cron)
 [![Hex.pm: downloads](https://img.shields.io/hexpm/dt/cron?style=flat-square)](https://hex.pm/packages/cron)
-[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/cron/ci.yml?branch=master&style=flat-square)](https://github.com/hrzndhrn/cron/actions)
+[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/cron/ci.yml?branch=main&style=flat-square)](https://github.com/hrzndhrn/cron/actions)
 [![Coveralls: coverage](https://img.shields.io/coverallsCoverage/github/hrzndhrn/cron?style=flat-square)](https://coveralls.io/github/hrzndhrn/cron)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/cron/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/cron?style=flat-square)](https://github.com/hrzndhrn/cron/stargazers)
@@ -110,7 +110,7 @@ A little tool to write GitHub actions in Elixir.
 An implementation of `glob`.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/glob_ex.svg?style=flat-square)](https://hex.pm/packages/glob_ex)
 [![Hex.pm: downloads](https://img.shields.io/hexpm/dt/glob_ex?style=flat-square)](https://hex.pm/packages/glob_ex)
-[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/glob_ex/ci.yml?branch=master&style=flat-square)](https://github.com/hrzndhrn/glob_ex/actions)
+[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/glob_ex/ci.yml?branch=main&style=flat-square)](https://github.com/hrzndhrn/glob_ex/actions)
 [![Coveralls: coverage](https://img.shields.io/coverallsCoverage/github/hrzndhrn/glob_ex?style=flat-square)](https://coveralls.io/github/hrzndhrn/glob_ex)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/glob_ex/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/glob_ex?style=flat-square)](https://github.com/hrzndhrn/glob_ex/stargazers)
@@ -161,7 +161,7 @@ Prove provides the macros prove and batch to write simple tests shorter.
 A linter with autocorrection and a refactoring tool.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/recode.svg?style=flat-square)](https://hex.pm/packages/recode)
 [![Hex.pm: downloads](https://img.shields.io/hexpm/dt/recode?style=flat-square)](https://hex.pm/packages/recode)
-[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/recode/ci.yml?branch=master&style=flat-square)](https://github.com/hrzndhrn/recode/actions)
+[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/recode/ci.yml?branch=main&style=flat-square)](https://github.com/hrzndhrn/recode/actions)
 [![Coveralls: coverage](https://img.shields.io/coverallsCoverage/github/hrzndhrn/recode?style=flat-square)](https://coveralls.io/github/hrzndhrn/recode)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/recode/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/recode?style=flat-square)](https://github.com/hrzndhrn/recode/stargazers)
@@ -172,7 +172,7 @@ A linter with autocorrection and a refactoring tool.
 An API for rewriting sources in an Elixir project. Powered by sourceror.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/rewrite.svg?style=flat-square)](https://hex.pm/packages/rewrite)
 [![Hex.pm: downloads](https://img.shields.io/hexpm/dt/rewrite?style=flat-square)](https://hex.pm/packages/rewrite)
-[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/rewrite/ci.yml?branch=master&style=flat-square)](https://github.com/hrzndhrn/rewrite/actions)
+[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/rewrite/ci.yml?branch=main&style=flat-square)](https://github.com/hrzndhrn/rewrite/actions)
 [![Coveralls: coverage](https://img.shields.io/coverallsCoverage/github/hrzndhrn/rewrite?style=flat-square)](https://coveralls.io/github/hrzndhrn/rewrite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/rewrite/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/rewrite?style=flat-square)](https://github.com/hrzndhrn/rewrite/stargazers)
@@ -216,7 +216,7 @@ Xema is a schema validator for Elixir inspired by JSON Schema.
 ZipperEx provides functions to handle an traverse tree data structures.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/zipper_ex.svg?style=flat-square)](https://hex.pm/packages/zipper_ex)
 [![Hex.pm: downloads](https://img.shields.io/hexpm/dt/zipper_ex?style=flat-square)](https://hex.pm/packages/zipper_ex)
-[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/zipper_ex/ci.yml?branch=master&style=flat-square)](https://github.com/hrzndhrn/zipper_ex/actions)
+[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/zipper_ex/ci.yml?branch=main&style=flat-square)](https://github.com/hrzndhrn/zipper_ex/actions)
 [![Coveralls: coverage](https://img.shields.io/coverallsCoverage/github/hrzndhrn/zipper_ex?style=flat-square)](https://coveralls.io/github/hrzndhrn/zipper_ex)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/zipper_ex/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/zipper_ex?style=flat-square)](https://github.com/hrzndhrn/zipper_ex/stargazers)
