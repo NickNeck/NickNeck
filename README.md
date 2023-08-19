@@ -6,21 +6,14 @@ You can find the projects in the [Herz und Hirn](https://github.com/hrzndhrn?q=&
 An interface to the BEAM file format and a decompiler.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/beam_file.svg?style=flat-square)](https://hex.pm/packages/beam_file)
 [![Hex.pm: downloads](https://img.shields.io/hexpm/dt/beam_file?style=flat-square)](https://hex.pm/packages/beam_file)
-[![GitHub: CI Status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/beam_file/ci.yml?branch=master&style=flat-square)](https://github.com/hrzndhrn/beam_file/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/beam_file/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/beam_file?style=flat-square)](https://github.com/hrzndhrn/beam_file/stargazers)
-[![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/beam_file?style=flat-square)](https://github.com/hrzndhrn/beam_file/network/members)
 [![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/beam_file?style=flat-square)](https://github.com/hrzndhrn/beam_file/commits/main)
 
 [benchee_dsl](https://github.com/hrzndhrn/benchee_dsl#readme) -
 A DSL for benchee.  
 [![Hex.pm: version](https://img.shields.io/hexpm/v/benchee_dsl.svg?style=flat-square)](https://hex.pm/packages/benchee_dsl)
 [![Hex.pm: downloads](https://img.shields.io/hexpm/dt/benchee_dsl?style=flat-square)](https://hex.pm/packages/benchee_dsl)
-[![GitHub: CI status](https://img.shields.io/github/actions/workflow/status/hrzndhrn/benchee_dsl/ci.yml?branch=master&style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/actions)
-[![Coveralls: coverage](https://img.shields.io/coverallsCoverage/github/hrzndhrn/benchee_dsl?style=flat-square)](https://coveralls.io/github/hrzndhrn/benchee_dsl)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/blob/main/LICENSE.md)
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/benchee_dsl?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/stargazers)
-[![GitHub: forks](https://img.shields.io/github/forks/hrzndhrn/benchee_dsl?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/network/members)
 [![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/benchee_dsl?style=flat-square)](https://github.com/hrzndhrn/benchee_dsl/commits/main)
 
 [benchee_markdown](https://github.com/hrzndhrn/benchee_markdown#readme) -
