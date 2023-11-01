@@ -44,6 +44,13 @@ A date-time parser using Calendar.strftime format strings.
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/datix?style=flat-square)](https://github.com/hrzndhrn/datix/stargazers)
 [![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/datix?style=flat-square)](https://github.com/hrzndhrn/datix/commits/main)
 
+[escape](https://github.com/hrzndhrn/escape) -
+An ANSI escape tool.  
+[![Hex.pm: version](https://img.shields.io/hexpm/v/escape.svg?style=flat-square)](https://hex.pm/packages/escape)
+[![Hex.pm: downloads](https://img.shields.io/hexpm/dt/escape?style=flat-square)](https://hex.pm/packages/escape)
+[![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/escape?style=flat-square)](https://github.com/hrzndhrn/escape/stargazers)
+[![GitHub: last commit](https://img.shields.io/github/last-commit/hrzndhrn/escape?style=flat-square)](https://github.com/hrzndhrn/escape/commits/main)
+
 [ex_uuid](https://github.com/hrzndhrn/ex_uuid#readme) -
 UUID generator according to [RFC 4122](https://www.ietf.org/rfc/rfc4122.txt).  
 [![GitHub: stars](https://img.shields.io/github/stars/hrzndhrn/ex_uuid?style=flat-square)](https://github.com/hrzndhrn/ex_uuid/stargazers)
